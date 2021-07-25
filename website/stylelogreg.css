@@ -1,0 +1,26 @@
+body
+{
+	background : linear-gradient(rgba(0 ,0 ,50,0.5),rgba(0,0,50, 0.5)),url("intro.jpg");
+	background-size : cover;
+	background-position : center;
+}
+.login-box{max-width=800px; float:none; margin:125px auto;}
+.row
+{
+	font-size:20px;
+	font-color:light yellow;
+}
+h2{ color:Green;
+   font-weight:bold;
+   }
+.login 
+   {
+	   background-color:rgba(211,211,211,0.5);
+	   padding: 30px;
+	   
+   }
+   .register
+   {
+	   background:#fff;
+	   padding:30px;
+   }
